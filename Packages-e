@@ -1,0 +1,13 @@
+Package: me.fgvilches.dontdownload
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: fgvilches
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/me.fgvilches.dontdownload
+Size: 8558
+Section: Tweaks
+Description: Don't download this tweak i dunno what does.
+Author: fgvilches
+Depiction: https://repo.fgvilches.me/description.html?id=me.fgvilches.dontdownload
+Name: DontDownload

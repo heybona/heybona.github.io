@@ -1,0 +1,11 @@
+Origin: fgvilches Repo
+Label: fgvilches
+Suite: stable
+Version: 1.0
+Codename: fgvilches
+Architecture: iphoneos-arm
+Components: main
+Description: fgvilches Tweaks
+md5sum:
+   Packages
+   Packages.bz2
